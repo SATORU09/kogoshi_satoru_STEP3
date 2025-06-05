@@ -24,13 +24,14 @@ span{
     width: 80%;
     height: 300px;
 }
+.main input[type="submit"]{
+    float: right;
+}
 table{
     margin:0 auto;
 }
 .footer{
     background-color:grey;
-    text-align: right;
-    float: center;
     height: 350px;
     width: 960px;
 
